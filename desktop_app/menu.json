@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Veg Biryani",
+        "price": 120,
+        "tax_percent": 5
+    },
+    {
+        "name": "Chicken Biryani",
+        "price": 180,
+        "tax_percent": 8
+    },
+    {
+        "name": "Veg Rice",
+        "price": 60.0,
+        "tax_percent": 0.0
+    }
+]
